@@ -9,38 +9,80 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+* Information Retrieval
+* Natural Language Processing
+* Adversarial Learning
+* Anomaly Detection
+* Optimization
+* Deep Learning
+* Machine Learning 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran
+  * B.Sc, Computer Engineering, 2016 - 2020
+  * Advisor: Prof. Hamidreza Shahriary Kahkeshi
+  * GPA: 17.54 / 20
+* Soroush High School, Tehran, Iran
+  * High School Diploma in Mathematics and Physics, 2012 - 2016
+  * GPA: 19.82 / 20
 
-Work experience
+Research and Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Adversarial Learning
+  * Research on generating and handling adversarial examples by different optimization algorithms.
+  * Supervisor: Professor Mazlaghani
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: IPM Brain Engineering Center, Research Intern
+  * Working on different clustering algorithms (KMeans, DBSCAN, Hierarchical) to cluster LFP signals gathered by monkeys.
+  * Supervisor: Professor Lashgari
+  
+* Winter 2019: Anomaly Detection by VAE
+  * Research on anomaly detection using variational autoencoders.
+  * Supervisor: Professor AmirHaeri
+  
+* October 2018: SOP Company, as Back-end Developer
+  * Responsible for implementing the server of a mHealth (mobile health) application
+  
+Notable Academic Projects
+======  
+* Winter 2020: Search Engine in Information Retrieval Course
+  * Implementing an online search engine, which includes preprocessing (tokenization, stemming, stopwords) and indexing, clustering, crawling and analysing documents.
+
+* Winter 2020: RBF in Principles of Computational Intelligence Course
+  * Implementing RBF for clustering and regression problems  
+  
+* Winter 2019: Graph Painting in Principles And Applications Of Artificial Intelligence Course
+  * Working on a graph painting project and implement Local Search and Genetic Algorithms.
+  
+* Winter 2018: Graph Community Detection in Algorithm Design Course
+  * Implementing graph community detection using label propagation (lpam)
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * Java
+  * C
+  * Assembly
+* Web Development
+  * JavaScript
+  * Nodejs
+  * HTML
+  * Vuejs
+  * CSS
+* Machine Learning
+  * Tensorflow
+  * Keras
+  * MATLAB
+  * Scikit-learn
+* Database Management
+  * MongoDB
+  * MySQL
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
