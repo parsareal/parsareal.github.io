@@ -50,15 +50,23 @@ Notable Academic Projects
 ======  
 * Winter 2020: Search Engine in Information Retrieval Course
   * Implementing an online search engine, which includes preprocessing (tokenization, stemming, stopwords) and indexing, clustering, crawling and analysing documents.
-
+  * Done by Python
+  
+ Winter 2020: An Online House Market Website in Web Programing Course
+  * Implementing front-end and back-end of an online house market website.
+  * Done by Vuejs and Nodejs
+  
 * Winter 2020: RBF in Principles of Computational Intelligence Course
   * Implementing RBF for clustering and regression problems  
+  * Done by Python
   
 * Winter 2019: Graph Painting in Principles And Applications Of Artificial Intelligence Course
   * Working on a graph painting project and implement Local Search and Genetic Algorithms.
+  * Done by Python
   
 * Winter 2018: Graph Community Detection in Algorithm Design Course
   * Implementing graph community detection using label propagation (lpam)
+  * Done by Java
 
   
 Skills
