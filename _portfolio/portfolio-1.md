@@ -1,7 +1,19 @@
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
+Research Interests
+======
+* Information Retrieval
+* Natural Language Processing
+* Adversarial Learning
+* Anomaly Detection
+* Optimization
+* Deep Learning
+* Machine Learning 
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Education
+======
+* Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran
+  * B.Sc, Computer Engineering, 2016 - 2020
+  * Advisor: Prof. Hamidreza Shahriary Kahkeshi
+  * GPA: 17.54 / 20
+* Soroush High School, Tehran, Iran
+  * High School Diploma in Mathematics and Physics, 2012 - 2016
+  * GPA: 19.82 / 20
