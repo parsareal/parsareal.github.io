@@ -49,10 +49,15 @@ Research and Work experience
 Notable Academic Projects
 ======  
 * Winter 2020: Search Engine in Information Retrieval Course
-  * Implementing an online search engine, which includes preprocessing (tokenization, stemming, stopwords) and indexing, clustering, crawling and analysing documents.
+  * Implementing an online search engine, which includes preprocessing (tokenization, stemming, stopwords) and indexing, vectorizing, clustering, crawling and analysing documents.
   * Done by Python
   
- Winter 2020: An Online House Market Website in Web Programing Course
+* Winter 2020: Projects in Data Mining Course
+  * Implementing linear regression and a classification challenge including preprocessing a large amount of data and employing algorithms like naive bayes. 
+  * Implementing clustering problems by Kmeans and DBSCAN algorithms and using techniques like Elbow to identify best parameters. Implementing Nueral Networks to be trained and predict.
+  * Done by Python
+  
+* Winter 2020: An Online House Market Website in Web Programing Course
   * Implementing front-end and back-end of an online house market website.
   * Done by Vuejs and Nodejs
   
