@@ -1,3 +1,8 @@
+---
+title: "Portfolio item number 2"
+collection: portfolio
+---
+
 Research Interests
 ======
 * Information Retrieval
