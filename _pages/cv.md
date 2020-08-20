@@ -66,8 +66,12 @@ Notable Academic Projects
   * Done by Python
   
 * Winter 2019: Graph Painting in Principles And Applications Of Artificial Intelligence Course
-  * Working on a graph painting project and implement Local Search and Genetic Algorithms.
+  * Implementing a graph painting project by using Local Search and Genetic Algorithms.
   * Done by Python
+
+* Winter 2019: Online Shop Database Design in Fundamental of Database Design Course
+  * Implementing tables, functions, procedures and designing ER for an online shop project.
+  * Done by MySQL
   
 * Winter 2018: Graph Community Detection in Algorithm Design Course
   * Implementing graph community detection using label propagation (lpam)
