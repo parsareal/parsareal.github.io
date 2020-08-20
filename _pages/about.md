@@ -15,6 +15,6 @@ Now, I am working on different approaches to generate and handle adversarial exa
 
 Furthermore, In my 2019's summer internship, I researched about different clustering algorithms to cluster LFP signals under the supervision of Professor Lashgari at [Brain Engineering Research Center](http://braineng.scs.ipm.ac.ir/) of the Institute for Research in Fundamental Sciences (IPM).
 
-Moreover, Last year, I did a research on anomaly detection using variational autoencoder (VAE) in graph’s dataset, under the supervision of [Professor AmirHaeri](https://ceit.aut.ac.ir/~haeri/).
+Moreover, Last year, I did a research on anomaly detection by training variational autoencoder (VAE) with features extracted by deepwalk approach from a social graph’s dataset, under the supervision of [Professor AmirHaeri](https://ceit.aut.ac.ir/~haeri/).
 
 In addition, I was in SOP Company since June 2017 as Node.js developer and responsible for implementing back-end server.
