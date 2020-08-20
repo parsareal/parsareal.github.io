@@ -40,7 +40,7 @@ Research and Work experience
   * Supervisor: Professor Lashgari
   
 * Winter 2019: Anomaly Detection by VAE
-  * Research on anomaly detection using variational autoencoders.
+  * Research on anomaly detection by training variational autoencoders with features extracted from deepwalk approach in social graphs.
   * Supervisor: Professor AmirHaeri
   
 * October 2018: SOP Company, as Back-end Developer
