@@ -13,9 +13,9 @@ Research Interests
 ======
 * Information Retrieval
 * Natural Language Processing
+* Data Mining
 * Adversarial Learning
 * Anomaly Detection
-* Data Mining
 * Optimization
 * Deep Learning
 * Machine Learning 
