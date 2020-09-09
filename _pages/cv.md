@@ -116,8 +116,9 @@ Certificates
   * [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/HWDJHKJYUX9H)
   * [Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/verify/XZJ2WAXTK4BT)
   * [Natural Language Processing with Sequence Models](https://www.coursera.org/account/accomplishments/verify/HYGEKHLPXNUM)
-* [Natural Language Processing in TensorFlow (deeplearning.ai)](https://www.coursera.org/account/accomplishments/verify/68ERDK3GL74R)
-
+* DeepLearning.AI TensorFlow Developer
+  * [Natural Language Processing in TensorFlow (deeplearning.ai)](https://www.coursera.org/account/accomplishments/verify/68ERDK3GL74R)
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
