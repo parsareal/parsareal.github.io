@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Fourth-year bachelor student of Computer Engineering at Amirkabir University of Technology (AUT).
-Interested in Machine Learning, Deep Learning, Information Retrieval, Data Mining and Optimization. You can find some related projects in [here](https://gitlab.com/users/parsareal/projects).
+Interested in Machine Learning, Deep Learning, Information Retrieval, Natural Language Processing, Data Mining and Optimization. You can find some related projects in [here](https://gitlab.com/users/parsareal/projects).
 
 Now, I am working on a chunker for persian language under the supervision of [Professor Momtazi](https://aut.ac.ir/cv/2345/Saeede%20Momtazi), which includes preprocessing text data and designing a model to learn how to predict phrases in text.
 
