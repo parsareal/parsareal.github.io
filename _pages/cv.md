@@ -105,7 +105,19 @@ Skills
   * MongoDB
   * MySQL
 
-  
+Certificates
+======
+* Deep Learning Specialization Coursera (deeplearning.ai)
+  * [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/L3XCVMB8JPV7)
+  * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/SM7NTMFX5CN6)
+  * [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/7TWC294LMVYF)
+  * [Sequence Models](https://www.coursera.org/account/accomplishments/verify/3K4DNHTHG6WN)
+* Natural Language Processing Specialization Coursera (deeplearning.ai)
+  * [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/HWDJHKJYUX9H)
+  * [Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/verify/XZJ2WAXTK4BT)
+  * [Natural Language Processing with Sequence Models](https://www.coursera.org/account/accomplishments/verify/HYGEKHLPXNUM)
+* [Natural Language Processing in TensorFlow (deeplearning.ai)](https://www.coursera.org/account/accomplishments/verify/68ERDK3GL74R)
+
 Talks
 ======
   <ul>{% for post in site.talks %}
