@@ -32,8 +32,12 @@ Education
 
 Research and Work experience
 ======
+* Summer 2020: Chunker for Persian Language
+  * Work on a chunkerfor persian language, including preprocessing text and designing a deep model to predict phrases in text.
+  * Supervisor: Saeede Momtazi
+  
 * Summer 2020: Adversarial Learning
-  * Research on generating and handling adversarial examples by different optimization algorithms.
+  * Research on different approaches for generating adversarial examples in deep nets (like FGSM and NLCG) and possible learning strategies to tackle this issue.
   * Supervisor: Professor Mazlaghani
 
 * Summer 2019: IPM Brain Engineering Center, Research Intern
