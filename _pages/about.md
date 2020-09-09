@@ -11,7 +11,9 @@ redirect_from:
 Fourth-year bachelor student of Computer Engineering at Amirkabir University of Technology (AUT).
 Interested in Machine Learning, Deep Learning, Information Retrieval, Data Mining and Optimization. You can find some related projects in [here](https://gitlab.com/users/parsareal/projects).
 
-Now, I am working on different approaches to generate and handle adversarial examples under the supervision of [Professor Mazlaghani](https://aut.ac.ir/cv/2296/Maryam-Amir-Mazlaghani?slc_lang=en&&cv=2296&mod=scv) by using optimization algorithms.
+Now, I am working on a chunker for persian language under the supervision of [Professor Momtazi](https://aut.ac.ir/cv/2345/Saeede%20Momtazi), which includes preprocessing text data and designing a model to learn how to predict phrases in text.
+
+Furthermore, I am working on different approaches to generate and handle adversarial examples under the supervision of [Professor Mazlaghani](https://aut.ac.ir/cv/2296/Maryam-Amir-Mazlaghani?slc_lang=en&&cv=2296&mod=scv) by using optimization algorithms.
 
 Furthermore, In my 2019's summer internship, I researched about different clustering algorithms to cluster LFP signals under the supervision of Professor Lashgari at [Brain Engineering Research Center](http://braineng.scs.ipm.ac.ir/) of the Institute for Research in Fundamental Sciences (IPM).
 
