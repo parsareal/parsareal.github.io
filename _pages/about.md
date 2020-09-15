@@ -11,7 +11,7 @@ redirect_from:
 Fourth-year bachelor student of Computer Engineering at Amirkabir University of Technology (AUT).
 Interested in Machine Learning, Deep Learning, Information Retrieval, Natural Language Processing, Data Mining and Optimization. You can find some related projects in [here](https://gitlab.com/users/parsareal/projects).
 
-Now, I am currently working on a project about a chunker for persian language under the supervision of [Professor Momtazi](https://aut.ac.ir/cv/2345/Saeede%20Momtazi), which includes preprocessing POS tagged text for generating labeled data and designing a model to learn how to predict noun phrases in text.Hierarchical
+Now, I am currently working on a project about a chunker for persian language under the supervision of [Professor Momtazi](https://aut.ac.ir/cv/2345/Saeede%20Momtazi), which includes preprocessing POS tagged text for generating labeled data and designing a model to learn how to predict noun phrases in text.
 
 Moreover, I am currently working on a paper about anomaly detection under the supervision of [Professor AmirHaeri](https://ceit.aut.ac.ir/~haeri/). The project is about training variational autoencoder (VAE) with features extracted by deepwalk algorithm from nodes in graph networks.
 
