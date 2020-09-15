@@ -25,7 +25,7 @@ Education
 * Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran
   * B.Sc, Computer Engineering, 2016 - 2020
   * Advisor: Prof. Hamidreza Shahriary Kahkeshi
-  * GPA: 17.54 / 20
+  * GPA: 17.47 / 20
 * Soroush High School, Tehran, Iran
   * High School Diploma in Mathematics and Physics, 2012 - 2016
   * GPA: 19.82 / 20
@@ -36,17 +36,17 @@ Research and Work experience
   * Work on a chunkerfor persian language, including preprocessing text and designing a deep model to predict phrases in text.
   * Supervisor: Saeede Momtazi
   
+* Summer 2020: Anomaly Detection by VAE
+  * Research on anomaly detection by training variational autoencoders with features extracted by deepwalk algorithm from nodes in graph networks.
+  * Supervisor: Professor AmirHaeri
+  
 * Summer 2020: Adversarial Learning
-  * Research on different approaches for generating adversarial examples in deep nets (like FGSM and NLCG) and possible learning strategies to tackle this issue.
+  * Work on different approaches for generating adversarial examples in deep nets (like FGSM and NLCG) and possible learning strategies to tackle this issue.
   * Supervisor: Professor Mazlaghani
 
 * Summer 2019: IPM Brain Engineering Center, Research Intern
-  * Working on different clustering algorithms (KMeans, DBSCAN, Hierarchical) to cluster LFP signals gathered by monkeys.
+  * Working on different clustering algorithms (KMeans, DBSCAN, Hierarchical) to cluster LFP signals gathered from monkeys.
   * Supervisor: Professor Lashgari
-  
-* Winter 2019: Anomaly Detection by VAE
-  * Research on anomaly detection by training variational autoencoders with features extracted from deepwalk approach in social graphs.
-  * Supervisor: Professor AmirHaeri
   
 * October 2018: SOP Company, as Back-end Developer
   * Responsible for implementing the server of a mHealth (mobile health) application
