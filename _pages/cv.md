@@ -32,12 +32,12 @@ Education
 
 Research and Work experience
 ======
-* Summer 2020: Chunker for Persian Language
-  * Work on a chunkerfor persian language, including preprocessing text and designing a deep model to predict phrases in text.
+* Summer 2020: Noun phrase chunker for Persian Language
+  * Work on a paper about phrase chunker for the persian language, including preparing labeled dataset and designing a deep model to predict phrases in text.
   * Supervisor: Saeede Momtazi
   
 * Summer 2020: Anomaly Detection by VAE
-  * Research on anomaly detection by training variational autoencoders with features extracted by deepwalk algorithm from nodes in graph networks.
+  * Work on a paper about anomaly detection in attributed networks by training variational autoencoders with features extracted by deepwalk algorithm and attributes of each node in the graph.
   * Supervisor: Professor AmirHaeri
   
 * Summer 2020: Adversarial Learning
