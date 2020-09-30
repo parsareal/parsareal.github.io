@@ -33,7 +33,7 @@ Education
 Research and Work experience
 ======
 * Summer 2020: Noun phrase chunker for Persian Language
-  * Work on a paper about phrase chunker for the persian language, including preparing labeled dataset and designing a deep model to predict phrases in text.
+  * Work on a paper about phrase chunker for the persian language, including preparing labeled dataset and employing a deep transformer-based model to predict phrases in text.
   * Supervisor: Saeede Momtazi
   
 * Summer 2020: Anomaly Detection by VAE
