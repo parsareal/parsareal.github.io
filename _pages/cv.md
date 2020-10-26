@@ -13,8 +13,8 @@ Research Interests
 ======
 * Information Retrieval
 * Natural Language Processing
-* Data Mining
 * Adversarial Learning
+* Data Mining
 * Anomaly Detection
 * Optimization
 * Deep Learning
@@ -30,58 +30,45 @@ Education
   * High School Diploma in Mathematics and Physics, 2012 - 2016
   * GPA: 19.82 / 20
 
-Research and Work experience
+Research and Academic experience
 ======
-* Summer 2020: Noun phrase chunker for Persian Language
-  * Work on a paper about phrase chunker for the persian language, including preparing labeled dataset and employing a deep transformer-based model to predict phrases in text.
+* Summer 2020: Text Chunking
+  * Two papers about text chunking for persian and english languages, including preparing a labeled persian dataset and employing the combination of transformer-based models like BERT, XLM with CRF to handle sequence chunking
   * Supervisor: Saeede Momtazi
   
-* Summer 2020: Anomaly Detection by VAE
-  * Work on a paper about anomaly detection in attributed networks by training variational autoencoders with features extracted by deepwalk algorithm and attributes of each node in the graph.
+* Summer 2020: Anomaly Detection by VAE and Node2vec
+  * A paper about anomaly detection in attributed networks by training variational autoencoders with features extracted by node2vec algorithm and attributes of each node in the graph.
   * Supervisor: Professor AmirHaeri
   
 * Summer 2020: Adversarial Learning
-  * Work on different approaches for generating adversarial examples in deep nets (like FGSM and NLCG) and possible learning strategies to tackle this issue.
+  * Research on different approaches for generating adversarial examples in deep nets (like FGSM and NLCG) and possible learning strategies to tackle this issue.
   * Supervisor: Professor Mazlaghani
 
 * Summer 2019: IPM Brain Engineering Center, Research Intern
   * Working on different clustering algorithms (KMeans, DBSCAN, Hierarchical) to cluster LFP signals gathered from monkeys.
   * Supervisor: Professor Lashgari
   
-* October 2018: SOP Company, as Back-end Developer
-  * Responsible for implementing the server of a mHealth (mobile health) application
-  
-Notable Academic Projects
+* Information Retrieval (Academic Course) Grade: 20/20
+  * project: Implementing an online search engine, which includes preprocessing (tokenization, stemming, stopwords) and indexing, vectorizing, scoring, clustering, crawling and analysing documents.
+
+* Data Mining (Academic Course) Grade: 20/20
+  * project: Implementing linear regression and a classification challenge including preprocessing a large amount of data and employing algorithms like naive bayes.
+Implementing clustering problems by Kmeans and DBSCAN algorithms and using techniques like Elbow to identify best parameters. Implementing Nueral Networks to be trained and predict.
+
+* Algorithm Design (Academic Course) Grade: 19.75/20
+  * project: Graph community detection using label propagation (lpam).
+
+* Principles And Applications Of Artificial Intelligence (Academic Course)
+  * project: Graph Painting project using Local Search and Genetic Algorithms.
+
+Publications
 ======  
-* Winter 2020: Search Engine in Information Retrieval Course
-  * Implementing an online search engine, which includes preprocessing (tokenization, stemming, stopwords) and indexing, vectorizing, clustering, crawling and analysing documents.
-  * Done by Python
+* {P.Kavehzadeh, MM.Abdollahpour, and S.Momtazi, "A Comparative Study on Contextualized Embedding on Text Chunking", The ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP). (Submitted)
   
-* Winter 2020: Projects in Data Mining Course
-  * Implementing linear regression and a classification challenge including preprocessing a large amount of data and employing algorithms like naive bayes. 
-  * Implementing clustering problems by Kmeans and DBSCAN algorithms and using techniques like Elbow to identify best parameters. Implementing Nueral Networks to be trained and predict.
-  * Done by Python
+* P.Kavehzadeh, MM.Abdollahpour, and S.Momtazi, "Employing Deep Trasnformer-based Models For Persian Text Chunking", The ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP). (Preparing)
   
-* Winter 2020: An Online House Market Website in Web Programing Course
-  * Implementing front-end and back-end of an online house market website.
-  * Done by Vuejs and Nodejs
+* P.Kavehzadeh, MR.Samadi, and M.Amirhaeri, "Anomaly Detection In Attributed Graphs By Node2vec and Variational Autoencoders. (Preparing)
   
-* Winter 2020: RBF in Principles of Computational Intelligence Course
-  * Implementing RBF for clustering and regression problems  
-  * Done by Python
-  
-* Winter 2019: Graph Painting in Principles And Applications Of Artificial Intelligence Course
-  * Implementing a graph painting project by using Local Search and Genetic Algorithms.
-  * Done by Python
-
-* Winter 2019: Online Shop Database Design in Fundamental of Database Design Course
-  * Implementing tables, functions, procedures and designing ER for an online shop project.
-  * Done by MySQL
-  
-* Winter 2018: Graph Community Detection in Algorithm Design Course
-  * Implementing graph community detection using label propagation (lpam)
-  * Done by Java
-
   
 Skills
 ======
