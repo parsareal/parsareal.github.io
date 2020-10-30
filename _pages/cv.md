@@ -67,8 +67,7 @@ Publications
   
 * P.Kavehzadeh, MM.Abdollahpour, and S.Momtazi, "Employing Deep Trasnformer-based Models For Persian Text Chunking", The ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP). (Preparing)
   
-* P.Kavehzadeh, MR.Samadi, and M.Amirhaeri, "Anomaly Detection In Attributed Graphs By Node2vec and Variational Autoencoders. (Preparing)
-  
+* P.Kavehzadeh, MR.Samadi, and M.Amirhaeri, "Unsupervised Anomaly Detection on Node Attributed Networks: A Deep Learning Approach", The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021) (Preparing)
   
 Skills
 ======
