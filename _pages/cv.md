@@ -63,7 +63,7 @@ Implementing clustering problems by Kmeans and DBSCAN algorithms and using techn
 
 Publications
 ======  
-* P.Kavehzadeh, MM.Abdollahpour, and S.Momtazi, "A Comparative Study on Contextualized Embedding on Text Chunking", Natural Language Engineering (CAMBRIDGE). (Submitted)
+* P.Kavehzadeh, MM.Abdollahpour, and S.Momtazi, "A Comparative Study on Contextualized Embedding on Text Chunking", IEEE/ACM transactions on audio, speech, and language processing. (Submitted)
   
 * P.Kavehzadeh, MM.Abdollahpour, and S.Momtazi, "Employing Deep Trasnformer-based Models For Persian Text Chunking", The ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP). (Preparing)
   
