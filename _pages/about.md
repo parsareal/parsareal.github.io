@@ -15,7 +15,7 @@ Now, I am currently working on a paper about noun phrase chunking for the persia
 
 Moreover, I am currently working on another paper about anomaly detection in attributed graphs under the supervision of [Professor AmirHaeri](https://ceit.aut.ac.ir/~haeri/). The main idea is training variational autoencoder (VAE) with features extracted by deepwalk algorithm and attributes of each node in the network to detect anomalies by measuring their reconstruction loss.
 
-Furthermore, I am working on different approaches to generate and handle adversarial examples under the supervision of [Professor Mazlaghani](https://aut.ac.ir/cv/2296/Maryam-Amir-Mazlaghani?slc_lang=en&&cv=2296&mod=scv) by using optimization algorithms.
+Furthermore, I am working on ddifferent approaches for defense against adversarial attacks on text data, including character-level(typo) and word-level attacks under the supervision of [Professor Mazlaghani](https://aut.ac.ir/cv/2296/Maryam-Amir-Mazlaghani?slc_lang=en&&cv=2296&mod=scv) by using machine learning algorithms.
 
 In my 2019's summer internship, I employed different clustering algorithms (KMeans, DBSCAN, Hierarchical) to cluster LFP signals captured from monkeys in Laboratory under the supervision of Professor Lashgari at [Brain Engineering Research Center](http://braineng.scs.ipm.ac.ir/) of the Institute for Research in Fundamental Sciences (IPM).
 
