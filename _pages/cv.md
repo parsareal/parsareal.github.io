@@ -30,18 +30,26 @@ Education
   * High School Diploma in Mathematics and Physics, 2012 - 2016
   * GPA: 19.82 / 20
 
+Publications
+======  
+* P.Kavehzadeh, MM.Abdollahpour, and S.Momtazi, "A Comparative Study on Contextualized Embedding on Text Chunking", IEEE/ACM transactions on audio, speech, and language processing. (Submitted)
+  
+* P.Kavehzadeh, MM.Abdollahpour, and S.Momtazi, "Employing Deep Trasnformer-based Models For Persian Text Chunking", The ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP). (Preparing)
+  
+* P.Kavehzadeh, MR.Samadi, and M.Amirhaeri, "Unsupervised Anomaly Detection on Node Attributed Networks: A Deep Learning Approach", The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021) (Preparing)
+
 Research and Academic experience
 ======
 * Summer 2020: Text Chunking
-  * Two papers about text chunking for persian and english languages, including preparing a labeled persian dataset and employing the combination of transformer-based models like BERT, XLM with CRF to handle sequence chunking
+  * Two papers about Persian and English text chunking. The Persian paper entailed two major phases of preparing a labeled dataset and applying transformer-based models and CRF on the tagged data. The English paper was a comparative study on the performance of contextualized models like BERT, XLM-RoBERTa, Funnel Transformer, GPT2 and BART in text chunking on CoNLL2000 dataset.
   * Supervisor: Saeede Momtazi
   
 * Summer 2020: Anomaly Detection by VAE and Node2vec
-  * A paper about anomaly detection in attributed networks by training variational autoencoders with features extracted by node2vec algorithm and attributes of each node in the graph.
+  * A paper about anomaly detection in attributed networks by passing the concatenation of features extracted by node2vec algorithm and attributes of each node to a variational autoencoder. The order of reconstruction of nodes indicated which nodes were anomalous in the network.
   * Supervisor: Professor AmirHaeri
   
-* Summer 2020: Adversarial Learning
-  * Research on different approaches for generating adversarial examples in deep nets (like FGSM and NLCG) and possible learning strategies to tackle this issue.
+* Summer 2020: Text Adversarial Learning
+  * Research on different approaches for defense against adversarial attacks on text data, including character-level(typo) and word-level attacks.
   * Supervisor: Professor Mazlaghani
 
 * Summer 2019: IPM Brain Engineering Center, Research Intern
@@ -61,13 +69,6 @@ Implementing clustering problems by Kmeans and DBSCAN algorithms and using techn
 * Principles And Applications Of Artificial Intelligence (Academic Course)
   * project: Graph Painting project using Local Search and Genetic Algorithms.
 
-Publications
-======  
-* P.Kavehzadeh, MM.Abdollahpour, and S.Momtazi, "A Comparative Study on Contextualized Embedding on Text Chunking", IEEE/ACM transactions on audio, speech, and language processing. (Submitted)
-  
-* P.Kavehzadeh, MM.Abdollahpour, and S.Momtazi, "Employing Deep Trasnformer-based Models For Persian Text Chunking", The ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP). (Preparing)
-  
-* P.Kavehzadeh, MR.Samadi, and M.Amirhaeri, "Unsupervised Anomaly Detection on Node Attributed Networks: A Deep Learning Approach", The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021) (Preparing)
   
 Skills
 ======
