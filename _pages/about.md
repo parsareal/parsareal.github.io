@@ -12,12 +12,9 @@ Fourth-year bachelor student of Computer Engineering at Amirkabir University of 
 Interested in Machine Learning, Deep Learning, Information Retrieval, Natural Language Processing, Data Mining and Optimization. You can find some related projects in [here](https://gitlab.com/users/parsareal/projects).
 
 ***Text Chunking***
-
 I have done two papers (abstracts [here](https://drive.google.com/file/d/1E2GzNGsa2DofIeziKv2nscYDas8_luUI/view?usp=sharing) and [here](https://drive.google.com/file/d/1gg2NuAfrhuYw2Gnc_yisFEDYEL-PA5vD/view?usp=sharing)) about phrase chunking for Persian and English languages under the supervision of [Professor Momtazi](https://aut.ac.ir/cv/2345/Saeede%20Momtazi). The persian chunker entailed two major phases; the first phase was preparing a labeled dataset and finding phrase patterns in data with POS tags. The second phase was feeding the dataset into transformer-based pre-trained models, BERT and XLM-RoBERTa followed by CRF and BiLSTM_CRF in order to to learn how to predict noun phrases in unlabeled text. The English paper was a comparitive study on the performance of various contextualized models, Funnel Transformer, BERT, BART, GPT2, XLM, XLM-RoBERTa, in sequence chunking task on CoNLL2000 dataset.
 
 ***Anomaly Detection in Networks***
-
-
 Moreover, I am currently working on another paper about anomaly detection in attributed graphs under the supervision of [Professor AmirHaeri](https://people.utwente.nl/m.amirhaeri). The main idea is training variational autoencoder (VAE) with the concatenation of features extracted by node2vec algorithm and attributes of each node in the network. After the training procedure, we sorted the nodes based on their reconstruction loss and the ranking of each node indicated how much it could be a anomlay.
 
 ***Adversarial Learning in Text***
