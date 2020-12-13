@@ -25,6 +25,6 @@ Furthermore, I am working on different defense approaches against adversarial at
 
 ***LFP Signal Classification***
 
-In my 2019's summer internship, I employed different clustering algorithms (KMeans, DBSCAN, Hierarchical) to cluster LFP signals captured from monkeys in Laboratory under the supervision of Professor Lashgari at [Brain Engineering Research Center](http://braineng.scs.ipm.ac.ir/) of the Institute for Research in Fundamental Sciences (IPM).
+In my 2019's summer internship, I employed different clustering algorithms (KMeans, DBSCAN, Hierarchical) to cluster LFP signals captured from monkeys in Laboratory under the supervision of Professor Lashgari at [Brain Engineering Research Center](http://braineng.scs.ipm.ac.ir/) of the Institute for Research in Fundamental Sciences (IPM). [Code](https://github.com/parsareal/LFP_Clustering)
 
 In addition, I was in SOP Company since June 2017 as Node.js developer and responsible for implementing back-end server.
