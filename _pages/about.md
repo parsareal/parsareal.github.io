@@ -17,7 +17,7 @@ I have done two papers (abstracts [here](https://drive.google.com/file/d/1E2GzNG
 
 ***Anomaly Detection in Networks***
 
-Moreover, I have done another paper about anomaly detection in attributed graphs under the supervision of [Professor AmirHaeri](https://people.utwente.nl/m.amirhaeri). The main idea is training variational autoencoder (VAE) with the concatenation of features extracted by node2vec algorithm and attributes of each node in the network. After the training procedure, we sorted the nodes based on their reconstruction loss and the ranking of each node indicated how much it could be a anomlay.
+Moreover, I have done another paper about anomaly detection in attributed graphs under the supervision of [Professor AmirHaeri](https://people.utwente.nl/m.amirhaeri). The main idea is training variational autoencoder (VAE) with the concatenation of features extracted by node2vec algorithm and attributes of each node in the network. After the training procedure, we sorted the nodes based on their reconstruction loss and the ranking of each node indicated how much it could be a anomlay. [Code](https://github.com/vague-miner/Anomaly-Detection-in-Attributed-Graphs)
 
 ***Adversarial Learning in Text***
 
