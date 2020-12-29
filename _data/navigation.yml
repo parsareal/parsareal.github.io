@@ -9,17 +9,17 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "TA"
+  - title: "Teaching"
     url: /teaching/    
     
-#   - title: "Portfolio"
-#     url: /portfolio/
-    
-#   - title: "Projects"
-#     url: /projects/
-        
   - title: "Blog Posts"
     url: /year-archive/
+    
+  - title: "Personal"
+    url: /personal/
+        
+  # - title: "Blog Posts"
+    # url: /year-archive/
     
 #   - title: "Guide"
 #     url: /markdown/
