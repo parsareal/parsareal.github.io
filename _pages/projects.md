@@ -13,7 +13,7 @@ redirect_from:
 This is the place where I am willing to write about my favorite stuff like movies, novels and books and, absulotely fantastic pieces of classical and flamenco guitar :)
 
 ## *Movies*
-Watching philosophical and psycological movies is one of my major hobbies. These are some of my suggestions for anybody willing to become familiar with professional works of expert directors in the world of cinema:
+Watching philosophical and psychological movies is one of my major hobbies. These are some of my suggestions for anybody willing to become familiar with the professional works of expert directors in the world of cinema:
 
 *Mulholland Drive by David Lynch:*  
 <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQuoVs0g6DrmJ9AuRCZ3wWhdFg4exoiFYpv2TsCqMJPvI5GQBB" width="300" height="300">
@@ -57,8 +57,8 @@ Here I want to introduce some charming books and novels that I have read in rece
 *The Master and Margarita:*  
 <img src="https://m.media-amazon.com/images/I/41OyjRKmpAL.jpg" width="300" height="300">
 
-*Crime and Punishment:*  
-<img src="https://prodimage.images-bn.com/pimages/9781593080815_p0_v1_s1200x630.jpg" width="300" height="300">
+*The Plague:*  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9mPeqmOyLv6ucIH8vag18ng-Zx2dQ7i53KA&usqp=CAU" width="300" height="300">
 
 *All men are mortal:*  
 <img src="https://images-na.ssl-images-amazon.com/images/I/414AQBGXECL._BO1,204,203,200_.jpg" width="300" height="300">
