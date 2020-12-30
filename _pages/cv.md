@@ -32,12 +32,12 @@ Education
 
 Publications
 ======  
+* P.Kavehzadeh, MR.Samadi, and M.Amirhaeri, "Unsupervised Anomaly Detection on Node Attributed Networks: A Deep Learning Approach", *Accepted* by ICISS Conference 2021 and *will be published* in the International Conference Proceedings Series by ACM [abstract](https://drive.google.com/file/d/1DIir4rP2Nd52xqBHd4_bZhNWOFLqZTgk/view?usp=sharing)
+
 * P.Kavehzadeh, MM.Abdollahpour, and S.Momtazi, "A Comparative Study on Contextualized Embedding on Text Chunking", IEEE/ACM transactions on audio, speech, and language processing. (Submitted) [abstract](https://drive.google.com/file/d/1E2GzNGsa2DofIeziKv2nscYDas8_luUI/view?usp=sharing)
   
 * P.Kavehzadeh, MM.Abdollahpour, and S.Momtazi, "Employing Deep Trasnformer-based Models For Persian Text Chunking", The ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP). (Submitted) [abstract](https://drive.google.com/file/d/1gg2NuAfrhuYw2Gnc_yisFEDYEL-PA5vD/view?usp=sharing)
   
-* P.Kavehzadeh, MR.Samadi, and M.Amirhaeri, "Unsupervised Anomaly Detection on Node Attributed Networks: A Deep Learning Approach", ICISS (Submitted) [abstract](https://drive.google.com/file/d/1DIir4rP2Nd52xqBHd4_bZhNWOFLqZTgk/view?usp=sharing)
-
 Research and Academic experience
 ======
 * Summer 2020: Text Chunking
