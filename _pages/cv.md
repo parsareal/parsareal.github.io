@@ -32,7 +32,7 @@ Education
 
 Publications
 ======  
-* P.Kavehzadeh, MR.Samadi, and M.Amirhaeri, "Unsupervised Anomaly Detection on Node Attributed Networks: A Deep Learning Approach", *Accepted* by ICISS Conference 2021 and *will be published* in the International Conference Proceedings Series by ACM [abstract](https://drive.google.com/file/d/1DIir4rP2Nd52xqBHd4_bZhNWOFLqZTgk/view?usp=sharing)
+* P.Kavehzadeh, MR.Samadi, and M.Amirhaeri, "Unsupervised Anomaly Detection on Node Attributed Networks: A Deep Learning Approach", ***Accepted*** by ICISS Conference 2021 and ***will be published*** in the International Conference Proceedings Series by ACM [abstract](https://drive.google.com/file/d/1DIir4rP2Nd52xqBHd4_bZhNWOFLqZTgk/view?usp=sharing)
 
 * P.Kavehzadeh, MM.Abdollahpour, and S.Momtazi, "A Comparative Study on Contextualized Embedding on Text Chunking", IEEE/ACM transactions on audio, speech, and language processing. (Submitted) [abstract](https://drive.google.com/file/d/1E2GzNGsa2DofIeziKv2nscYDas8_luUI/view?usp=sharing)
   
