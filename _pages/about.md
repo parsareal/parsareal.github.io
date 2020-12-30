@@ -13,7 +13,7 @@ Interested in Machine Learning, Deep Learning, Information Retrieval, Natural La
 
 ***Anomaly Detection in Networks***
 
-I have done another paper about anomaly detection in attributed graphs under the supervision of [Professor AmirHaeri](https://people.utwente.nl/m.amirhaeri). The main idea is training variational autoencoder (VAE) with the concatenation of features extracted by node2vec algorithm and attributes of each node in the network. After the training procedure, we sorted the nodes based on their reconstruction loss and the ranking of each node indicated how much it could be a anomlay. The result of this project was a paper that was **accepted** by ICISS Conference 2021 and **will be published** in the International Conference Proceedings Series by ACM. [Code](https://github.com/vague-miner/Anomaly-Detection-in-Attributed-Graphs)
+I have done another paper about anomaly detection in attributed graphs under the supervision of [Professor AmirHaeri](https://people.utwente.nl/m.amirhaeri). The main idea is training variational autoencoder (VAE) with the concatenation of features extracted by node2vec algorithm and attributes of each node in the network. After the training procedure, we sorted the nodes based on their reconstruction loss and the ranking of each node indicated how much it could be a anomlay. The result of this project was a paper that was **accepted** by International Conference on Information Science and Systems (ICISS 2021) and **will be published** in the International Conference Proceedings Series by ACM. [Code](https://github.com/vague-miner/Anomaly-Detection-in-Attributed-Graphs)
 
 
 ***Text Chunking***
