@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 Fourth-year bachelor student of Computer Engineering at Amirkabir University of Technology (AUT).
-Interested in Machine Learning, Deep Learning, Information Retrieval, Natural Language Processing, Data Mining and Social Nework Analysis. You can find some related projects in [here](https://gitlab.com/users/parsareal/projects) and my Github.
-
-Here, I briefly explain some of my notable research experiences during BSc.
+Interested in Machine Learning, Deep Learning, Information Retrieval, Natural Language Processing, Data Mining and Social Nework Analysis. You can find some related projects in [here](https://gitlab.com/users/parsareal/projects) and my Github. Here, I briefly explain some of my notable research experiences during BSc.
 
 ***Anomaly Detection in Networks***
 
