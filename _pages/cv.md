@@ -25,7 +25,7 @@ Education
 * Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran
   * B.Sc, Computer Engineering, 2016 - 2020
   * Advisor: Prof. Hamidreza Shahriary Kahkeshi
-  * GPA: 17.47/20 (3.72/4)
+  * GPA: ***17.47/20 (3.72/4)***, LastTwoYears: ***3.91/4***
 * Soroush High School, Tehran, Iran
   * High School Diploma in Mathematics and Physics, 2012 - 2016
   * GPA: 19.82 / 20
