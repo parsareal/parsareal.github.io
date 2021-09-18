@@ -16,14 +16,17 @@ Research Interests
 * Social Network Analysis
 * Data Mining
 * Anomaly Detection
+* Information Visualization
 * Adversarial Learning
 * Deep Learning
 * Machine Learning 
 
 Education
 ======
+* York University, Toronto, Canada
+  * Master of Science, Computer Science, 2021 - Present
 * Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran
-  * B.Sc, Computer Engineering, 2016 - 2020
+  * B.Sc, Computer Engineering, 2016 - 2021
   * GPA: ***17.47/20 (3.72/4)***, LastTwoYears: ***3.91/4***
 * Soroush High School, Tehran, Iran
   * High School Diploma in Mathematics and Physics, 2012 - 2016
@@ -31,7 +34,7 @@ Education
 
 Publications
 ======  
-* P.Kavehzadeh, MR.Samadi, and M.Amirhaeri, "Unsupervised Anomaly Detection on Node Attributed Networks: A Deep Learning Approach", ***Accepted*** by ICISS Conference 2021 and ***will be published*** in the International Conference Proceedings Series by ACM [abstract](https://drive.google.com/file/d/1DIir4rP2Nd52xqBHd4_bZhNWOFLqZTgk/view?usp=sharing)
+* P.Kavehzadeh, MR.Samadi, and M.Amirhaeri, "Unsupervised Anomaly Detection on Node Attributed Networks: A Deep Learning Approach", Accepted by ICISS Conference 2021 and published in the International Conference Proceedings Series by ACM [paper](https://dl.acm.org/doi/fullHtml/10.1145/3459955.3460597)
 
 * P.Kavehzadeh, MM.Abdollahpour, and S.Momtazi, "Employing Deep Trasnformer-based Models For Persian Text Chunking", The ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP). (Submitted) [abstract](https://drive.google.com/file/d/1gg2NuAfrhuYw2Gnc_yisFEDYEL-PA5vD/view?usp=sharing)
 
