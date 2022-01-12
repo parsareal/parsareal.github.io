@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 Currently graduate student of Computer Science program at York University, *Toronto, ON*.
-Interested in Machine Learning, Deep Learning, Information Retrieval, Natural Language Processing, Information Visualization, Data Mining and Social Nework Analysis. You can find some related projects in [here](https://gitlab.com/users/parsareal/projects) and my Github. Here, I briefly explain some of my notable research experiences during BSc.
+Interested in Machine Learning, Deep Learning, Information Retrieval, Natural Language Processing, Information Visualization, Data Mining and Social Nework Analysis. You can find some related projects in [here](https://gitlab.com/users/parsareal/projects) and my Github. Here, I briefly explain some of my notable research experiences during my education.
+
+***Natural Language Interactions with Visualization***
+
+Currently, I am studying under supervision of [Professor Hoque](https://www.yorku.ca/enamulh/) and our research focus is natural languge interactions with visualization, specifically charts. People usually prefer to interact with a system by natural language since it gives them more freedom to ask more diverse queries. We are working on chart question answering modesl in which users ask questions regarding a chart data and the system needs to process both natural language input and chart data in order to predict the answer.
 
 ***Anomaly Detection in Networks***
 
