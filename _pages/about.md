@@ -42,6 +42,7 @@ I have done two projects ([paper](https://jad.shahroodut.ac.ir/article_2455_827e
 Furthermore, in my BS thesis project, I worked on different defense approaches against **adversarial attacks on text data**, including character-level and word-level(typos and synonyms) attacks under the supervision of [Professor Mazlaghani](https://aut.ac.ir/cv/2296/Maryam-Amir-Mazlaghani?slc_lang=en&&cv=2296&mod=scv) by using machine learning algorithms. These approaches include methods like designing a defensive model to prevent adversarial examples from entering the classification module or making the classification algorithms more robust against these examples.
 
 ***Search Engine Project***
+
 I was also involved in large-scale team project in *Information Retrieval* course during my BSc. We implemented an **online news search engine** from scratch. We pre-processed **(tokenization, stemming, stopwords)**, indexing and vectorizing documents with **tf-idf** measure.
 Scoring the documents based on input query was calculated by **cosine similarity** metric between the query vector and all documents vectors.
 At the final stage of the project, we imporved the retrieval process by document **classification** and **clustering**. You can find the code of this project [here](https://gitlab.com/parsareal/news_searchengine).
