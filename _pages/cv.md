@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Research Interests
+You can find my updated CV [here](https://drive.google.com/file/d/1FFaxV156Xex5OsmBrB2FMbojlkMwiUqA/view?usp=sharing).
+<!-- Research Interests
 ======
 * Information Retrieval
 * Natural Language Processing
@@ -119,4 +120,4 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
