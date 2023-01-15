@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 You can find my updated CV [here](https://drive.google.com/file/d/1FFaxV156Xex5OsmBrB2FMbojlkMwiUqA/view?usp=sharing).
+
 <!-- Research Interests
 ======
 * Information Retrieval
