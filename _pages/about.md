@@ -12,6 +12,7 @@ Currently graduate student of MS Computer Science program at York University, *T
 Interested in Machine Learning, Deep Learning, Information Retrieval, Natural Language Processing, Information Visualization and Data Mining. You can find some related projects in [here](https://gitlab.com/users/parsareal/projects) and my Github. Here, I briefly explain some of my notable work and research experiences during my education.
 
 ***Data Science Internship at Manulife***
+
 Being part of the **NLP team** in department of analytics to implement a **search engine** system for business documents.
 Using **SQL Full-text index** feature of SQL on **Azure Machine Learning platform** to index documents and retrieve
 ranked results based on input queries. Learning how to use different Azure features and services like **pipelines,
