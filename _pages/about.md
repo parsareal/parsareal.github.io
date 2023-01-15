@@ -23,7 +23,7 @@ lifecycle.
 
 I'm currently working on **natural language** interactions with **visualization** under supervision of [Professor Hoque](https://www.yorku.ca/enamulh/#). Our work focuses specifically **chart data** and systems employing NLP
 and computer vision techniques to handle charts and natural language both as input (question) and output (chart
-summary). We have published a [survey paper](https://arxiv.org/abs/2205.03966) about **chart question answering** domain so far. Working on an end-toend solution by **chart pretraining** for **chart comprehension and reasoning**. Our ongoing project is about adapting **BLIP** vision-language
+summary). We have published a [survey paper](https://arxiv.org/abs/2205.03966) about **chart question answering** domain so far. Our ongoing project is about an end-to-end solution by **chart pretraining** on a huge number of charts to reach **chart comprehension and reasoning** ability. We tried to adapt **BLIP** vision-language
 architecture in order to contain chart image encoder, text encoder, and chart-ground text decoder modules in a single
 architecture. In a parallel project, we are utilizing the **YOLOS** object detection model on chart data in order to detect the bounding boxes,
 relations of chart elements, and eventually **reconstructing the underlying data table of chart**, which is highly effective in chart downstream tasks like chart question answering, open chart question answering and chart summarization.
