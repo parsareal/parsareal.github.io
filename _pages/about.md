@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 **About Me**
+
 I am Parsa Kavehzadeh, an NLP Researcher with a strong foundation in developing and optimizing Large Language Models (LLMs). My expertise lies in machine learning, data science, and software development, with a proven track record of success in both academic and industry environments.
 
 **Professional Experience**
