@@ -250,7 +250,7 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/teaching.md
-  - _pages/people.md
+  - _pages/profiles.md
   - _pages/blog.md
   - _pages/repositories.md
   - _pages/projects.md
