@@ -52,6 +52,25 @@
     abstract = "Large language models (LLMs) have revolutionized natural language processing (NLP) by excelling at understanding and generating human-like text. However, their widespread deployment can be prohibitively expensive. SortedNet is a recent training technique for enabling dynamic inference by leveraging the modularity in networks and sorting sub-models based on computation/accuracy in a nested manner. We extend SortedNet to generative NLP tasks, making large language models dynamic without any Pre-Training and by only replacing Standard Fine-Tuning (SFT) with Sorted Fine-Tuning (SoFT). Our approach boosts model efficiency, eliminating the need for multiple models for various scenarios during inference. We show that this approach can unlock the potential of intermediate layers of transformers in generating the target output. Our sub-models remain integral components of the original model, minimizing storage requirements and transition costs between different computational/latency budgets. The efficacy of our proposed method was demonstrated by applying it to tune LLaMA 2 13B on the Stanford Alpaca dataset for instruction following and TriviaQA for closed-book question answering. Our results show the superior performance of sub-models in comparison to Standard Fine-Tuning and SFT+ICT (Early-Exit), all achieved with very efficient tuning and without additional memory usage during inference.",
 }
 
+@inproceedings{kavehzadeh-etal-2024-sorted,
+    title = "Sorted {LL}a{MA}: Unlocking the Potential of Intermediate Layers of Large Language Models for Dynamic Inference",
+    author = "Kavehzadeh, Parsa  and
+      Valipour, Mojtaba  and
+      Tahaei, Marzieh  and
+      Ghodsi, Ali  and
+      Chen, Boxing  and
+      Rezagholizadeh, Mehdi",
+    editor = "Graham, Yvette  and
+      Purver, Matthew",
+    booktitle = "Findings of the Association for Computational Linguistics: EACL 2024",
+    month = mar,
+    year = "2024",
+    address = "St. Julian{'}s, Malta",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-eacl.141",
+    pages = "2129--2145",
+    abstract = "Large language models (LLMs) have revolutionized natural language processing (NLP) by excelling at understanding and generating human-like text. However, their widespread deployment can be prohibitively expensive. SortedNet is a recent training technique for enabling dynamic inference by leveraging the modularity in networks and sorting sub-models based on computation/accuracy in a nested manner. We extend SortedNet to generative NLP tasks, making large language models dynamic without any Pre-Training and by only replacing Standard Fine-Tuning (SFT) with Sorted Fine-Tuning (SoFT). Our approach boosts model efficiency, eliminating the need for multiple models for various scenarios during inference. We show that this approach can unlock the potential of intermediate layers of transformers in generating the target output. Our sub-models remain integral components of the original model, minimizing storage requirements and transition costs between different computational/latency budgets. The efficacy of our proposed method was demonstrated by applying it to tune LLaMA 2 13B on the Stanford Alpaca dataset for instruction following and TriviaQA for closed-book question answering. Our results show the superior performance of sub-models in comparison to Standard Fine-Tuning and SFT+ICT (Early-Exit), all achieved with very efficient tuning and without additional memory usage during inference.",
+}
 
 @misc{do2023llmsworkchartsdesigning,
       title={Do LLMs Work on Charts? Designing Few-Shot Prompts for Chart Question Answering and Summarization}, 
@@ -100,43 +119,3 @@ keywords = {Anomaly Detection, Attributed Networks, Deep Learning, Unsupervised 
 location = {Edinburgh, United Kingdom},
 series = {ICISS '21}
 }
-
-
-@article {
-author = {Kavehzadeh, P. and Abdollah Pour, M. M. and Momtazi, S.},
-title = {A Transformer-based Approach for Persian Text Chunking},
-journal = {Journal of AI and Data Mining},
-volume = {10},
-number = {3},
-pages = {373-383},
-year  = {2022},
-publisher = {Shahrood University of Technology},
-issn = {2322-5211}, 
-eissn = {2322-4444}, 
-doi = {10.22044/jadm.2022.11035.2250},
-abstract = {Over the last few years, text chunking has taken a significant part in sequence labeling tasks. Although a large variety of methods have been proposed for shallow parsing in English, most proposed approaches for text chunking in Persian language are based on simple and traditional concepts. In this paper, we propose using the state-of-the-art transformer-based contextualized models, namely BERT and XLM-RoBERTa, as the major structure of our models. Conditional Random Field (CRF), the combination of Bidirectional Long Short-Term Memory (BiLSTM) and CRF, and a simple dense layer are employed after the transformer-based models to enhance the model's performance in predicting chunk labels. Moreover, we provide a new dataset for noun phrase chunking in Persian which includes annotated data of Persian news text. Our experiments reveal that XLM-RoBERTa achieves the best performance between all the architectures tried on the proposed dataset. The results also show that using a single CRF layer would yield better results than a dense layer and even the combination of BiLSTM and CRF.},
-keywords = {Persian text chunking,sequence labeling,deep learning,contextualized word representation},	
-url = {https://jad.shahroodut.ac.ir/article_2455.html},
-eprint = {https://jad.shahroodut.ac.ir/article_2455_bb18bb2f7d37ea3cb28427dd014d7074.pdf}
-}
-
-@article{
-author = {Parsa KavehzadehandMohammad Mahdi  Abdollah PourandSaeedeh Momtazi},
-title = {Deep Transformer-based Representation for Text Chunking},
-journal = {Journal of Information Systems and Telecommunication (JIST) },
-volume = {11},
-number = {3},
-page = {176-184},
-year = {2023},
-publisher = {Iranian Academic Center for Education,Culture and Research },
-issn = {2322-1437},
-eissn = {2345-2773},
-doi = {10.61186/jist.19894.11.43.176},
-abstract = {Text chunking is one of the basic tasks in natural language processing. Most proposed models in recent years were employed on chunking and other sequence labeling tasks simultaneously and they were mostly based on Recurrent Neural Networks (RNN) and Conditional Random Field (CRF). In this article, we use state-of-the-art transformer-based models in combination with CRF, Long Short-Term Memory (LSTM)-CRF as well as a simple dense layer to study the impact of different pre-trained models on the overall performance in text chunking. To this aim, we evaluate BERT, RoBERTa, Funnel Transformer, XLM, XLM-RoBERTa, BART, and GPT2 as candidates of contextualized models. Our experiments exhibit that all transformer-based models except GPT2 achieved close and high scores on text chunking. Due to the unique unidirectional architecture of GPT2, it shows a relatively poor performance on text chunking in comparison to other bidirectional transformer-based architectures. Our experiments also revealed that adding a LSTM layer to transformer-based models does not significantly improve the results since LSTM does not add additional features to assist the model to achieve more information from the input compared to the deep contextualized models.},
-keywords = {Text Chunking, Sequence labeling, Contextualized Word Representation, Deep learning, Transformers},
-title_fa = {Deep Transformer-based Representation for Text Chunking},
-abstract_fa = {Text chunking is one of the basic tasks in natural language processing. Most proposed models in recent years were employed on chunking and other sequence labeling tasks simultaneously and they were mostly based on Recurrent Neural Networks (RNN) and Conditional Random Field (CRF). In this article, we use state-of-the-art transformer-based models in combination with CRF, Long Short-Term Memory (LSTM)-CRF as well as a simple dense layer to study the impact of different pre-trained models on the overall performance in text chunking. To this aim, we evaluate BERT, RoBERTa, Funnel Transformer, XLM, XLM-RoBERTa, BART, and GPT2 as candidates of contextualized models. Our experiments exhibit that all transformer-based models except GPT2 achieved close and high scores on text chunking. Due to the unique unidirectional architecture of GPT2, it shows a relatively poor performance on text chunking in comparison to other bidirectional transformer-based architectures. Our experiments also revealed that adding a LSTM layer to transformer-based models does not significantly improve the results since LSTM does not add additional features to assist the model to achieve more information from the input compared to the deep contextualized models.},
-keywords_fa = {Text Chunking, Sequence labeling, Contextualized Word Representation, Deep learning, Transformers},
-URL = {rimag.ir/fa/Article/19894},
-eprint = {rimag.ir/fa/Article/Download/19894},
-
