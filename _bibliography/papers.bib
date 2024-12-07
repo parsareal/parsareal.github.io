@@ -21,3 +21,101 @@
     pages = "14662--14684",
     abstract = "Charts are widely used for data analysis, providing visual representations and insights into complex data. To facilitate chart-based data analysis using natural language, several downstream tasks have been introduced recently such as chart question answering and chart summarization. However, existing methods for these tasks often rely on pretraining on language or vision-language tasks, neglecting the explicit modeling of chart structures (e.g., how chart elements are related to each other). To address this, we first build a large corpus of charts covering diverse topics and visual styles. We then present UniChart, a pretrained model for chart comprehension and reasoning. UniChart encodes the relevant text, data, and visual elements of charts and then uses a chart-grounded text decoder for text generation. We propose several chart-specific pretraining tasks that include: (i) low-level tasks to extract the visual elements (e.g., bars, lines) and data from charts, and (ii) high-level tasks to acquire chart understanding and reasoning skills. Our experiments demonstrate that pretraining UniChart on a large corpus with chart-specific objectives, followed by fine-tuning, yields state-of-the-art performance on four downstream tasks. Moreover, our model exhibits superior generalizability to unseen chart corpus, surpassing previous approaches that lack chart-specific objectives and utilize limited chart resources.",
 }
+
+@misc{kavehzadeh2024s2dsortedspeculativedecoding,
+      title={S2D: Sorted Speculative Decoding For More Efficient Deployment of Nested Large Language Models}, 
+      author={Parsa Kavehzadeh and Mohammadreza Pourreza and Mojtaba Valipour and Tinashu Zhu and Haoli Bai and Ali Ghodsi and Boxing Chen and Mehdi Rezagholizadeh},
+      year={2024},
+      eprint={2407.01955},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.01955}, 
+}
+
+@inproceedings{kavehzadeh-etal-2024-sorted,
+    title = "Sorted {LL}a{MA}: Unlocking the Potential of Intermediate Layers of Large Language Models for Dynamic Inference",
+    author = "Kavehzadeh, Parsa  and
+      Valipour, Mojtaba  and
+      Tahaei, Marzieh  and
+      Ghodsi, Ali  and
+      Chen, Boxing  and
+      Rezagholizadeh, Mehdi",
+    editor = "Graham, Yvette  and
+      Purver, Matthew",
+    booktitle = "Findings of the Association for Computational Linguistics: EACL 2024",
+    month = mar,
+    year = "2024",
+    address = "St. Julian{'}s, Malta",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-eacl.141",
+    pages = "2129--2145",
+    abstract = "Large language models (LLMs) have revolutionized natural language processing (NLP) by excelling at understanding and generating human-like text. However, their widespread deployment can be prohibitively expensive. SortedNet is a recent training technique for enabling dynamic inference by leveraging the modularity in networks and sorting sub-models based on computation/accuracy in a nested manner. We extend SortedNet to generative NLP tasks, making large language models dynamic without any Pre-Training and by only replacing Standard Fine-Tuning (SFT) with Sorted Fine-Tuning (SoFT). Our approach boosts model efficiency, eliminating the need for multiple models for various scenarios during inference. We show that this approach can unlock the potential of intermediate layers of transformers in generating the target output. Our sub-models remain integral components of the original model, minimizing storage requirements and transition costs between different computational/latency budgets. The efficacy of our proposed method was demonstrated by applying it to tune LLaMA 2 13B on the Stanford Alpaca dataset for instruction following and TriviaQA for closed-book question answering. Our results show the superior performance of sub-models in comparison to Standard Fine-Tuning and SFT+ICT (Early-Exit), all achieved with very efficient tuning and without additional memory usage during inference.",
+}
+
+@inproceedings{kavehzadeh-etal-2024-sorted,
+    title = "Sorted {LL}a{MA}: Unlocking the Potential of Intermediate Layers of Large Language Models for Dynamic Inference",
+    author = "Kavehzadeh, Parsa  and
+      Valipour, Mojtaba  and
+      Tahaei, Marzieh  and
+      Ghodsi, Ali  and
+      Chen, Boxing  and
+      Rezagholizadeh, Mehdi",
+    editor = "Graham, Yvette  and
+      Purver, Matthew",
+    booktitle = "Findings of the Association for Computational Linguistics: EACL 2024",
+    month = mar,
+    year = "2024",
+    address = "St. Julian{'}s, Malta",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-eacl.141",
+    pages = "2129--2145",
+    abstract = "Large language models (LLMs) have revolutionized natural language processing (NLP) by excelling at understanding and generating human-like text. However, their widespread deployment can be prohibitively expensive. SortedNet is a recent training technique for enabling dynamic inference by leveraging the modularity in networks and sorting sub-models based on computation/accuracy in a nested manner. We extend SortedNet to generative NLP tasks, making large language models dynamic without any Pre-Training and by only replacing Standard Fine-Tuning (SFT) with Sorted Fine-Tuning (SoFT). Our approach boosts model efficiency, eliminating the need for multiple models for various scenarios during inference. We show that this approach can unlock the potential of intermediate layers of transformers in generating the target output. Our sub-models remain integral components of the original model, minimizing storage requirements and transition costs between different computational/latency budgets. The efficacy of our proposed method was demonstrated by applying it to tune LLaMA 2 13B on the Stanford Alpaca dataset for instruction following and TriviaQA for closed-book question answering. Our results show the superior performance of sub-models in comparison to Standard Fine-Tuning and SFT+ICT (Early-Exit), all achieved with very efficient tuning and without additional memory usage during inference.",
+}
+
+@misc{do2023llmsworkchartsdesigning,
+      title={Do LLMs Work on Charts? Designing Few-Shot Prompts for Chart Question Answering and Summarization}, 
+      author={Xuan Long Do and Mohammad Hassanpour and Ahmed Masry and Parsa Kavehzadeh and Enamul Hoque and Shafiq Joty},
+      year={2023},
+      eprint={2312.10610},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2312.10610}, 
+}
+
+@misc{valipour2024sortednetscalablegeneralizedframework,
+      title={SortedNet: A Scalable and Generalized Framework for Training Modular Deep Neural Networks}, 
+      author={Mojtaba Valipour and Mehdi Rezagholizadeh and Hossein Rajabzadeh and Parsa Kavehzadeh and Marzieh Tahaei and Boxing Chen and Ali Ghodsi},
+      year={2024},
+      eprint={2309.00255},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2309.00255}, 
+}
+
+@misc{hoque2022chartquestionansweringstate,
+      title={Chart Question Answering: State of the Art and Future Directions}, 
+      author={Enamul Hoque and Parsa Kavehzadeh and Ahmed Masry},
+      year={2022},
+      eprint={2205.03966},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2205.03966}, 
+}
+
+@inproceedings{10.1145/3459955.3460597,
+author = {Kavehzadeh, Parsa and Samadi, Mohammadreza and Amir Haeri, Maryam},
+title = {Unsupervised Anomaly Detection on Node Attributed Networks: A Deep Learning Approach},
+year = {2021},
+isbn = {9781450389136},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3459955.3460597},
+doi = {10.1145/3459955.3460597},
+abstract = {Anomaly detection has been one of the important issues in social network analysis in recent years due to the crucial role it plays in different applications such as fraud and spammer detection. Using both graph and node characteristics leads to more accurate results in detecting anomalous nodes of node attributed networks. Most of the research works in this field are concentrated on supervised methods for anomaly detection. However, in real-world problems, there is not enough labeled data to use supervised methods for anomaly detection. This paper proposes an unsupervised method for detecting anomalous nodes in node attributed networks. The methods used a two-step deep learning approach. In the first step, structural features of the network are extracted using node2vec; in the next step, Variational AutoEncoder (VAE) is used to detect the anomalies considering both structural and node attributes. The anomalous nodes are recognized by their higher reconstruction loss. Our experimental results on two datasets, BlogCatalog and Flickr, show that the suggested method can compete with the state-of-the-art approaches of anomaly detection in attributed networks. Our method (Deep2NAD) outperforms the state-of-the-art result on the Flickr dataset based on AUC. Moreover, it receives an acceptable AUC over the BlogCatalog dataset in comparison to the state-of-the-art methods.},
+booktitle = {Proceedings of the 4th International Conference on Information Science and Systems},
+pages = {35–40},
+numpages = {6},
+keywords = {Anomaly Detection, Attributed Networks, Deep Learning, Unsupervised Learning},
+location = {Edinburgh, United Kingdom},
+series = {ICISS '21}
+}
