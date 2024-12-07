@@ -52,26 +52,6 @@
     abstract = "Large language models (LLMs) have revolutionized natural language processing (NLP) by excelling at understanding and generating human-like text. However, their widespread deployment can be prohibitively expensive. SortedNet is a recent training technique for enabling dynamic inference by leveraging the modularity in networks and sorting sub-models based on computation/accuracy in a nested manner. We extend SortedNet to generative NLP tasks, making large language models dynamic without any Pre-Training and by only replacing Standard Fine-Tuning (SFT) with Sorted Fine-Tuning (SoFT). Our approach boosts model efficiency, eliminating the need for multiple models for various scenarios during inference. We show that this approach can unlock the potential of intermediate layers of transformers in generating the target output. Our sub-models remain integral components of the original model, minimizing storage requirements and transition costs between different computational/latency budgets. The efficacy of our proposed method was demonstrated by applying it to tune LLaMA 2 13B on the Stanford Alpaca dataset for instruction following and TriviaQA for closed-book question answering. Our results show the superior performance of sub-models in comparison to Standard Fine-Tuning and SFT+ICT (Early-Exit), all achieved with very efficient tuning and without additional memory usage during inference.",
 }
 
-@inproceedings{kavehzadeh-etal-2024-sorted,
-    title = "Sorted {LL}a{MA}: Unlocking the Potential of Intermediate Layers of Large Language Models for Dynamic Inference",
-    author = "Kavehzadeh, Parsa  and
-      Valipour, Mojtaba  and
-      Tahaei, Marzieh  and
-      Ghodsi, Ali  and
-      Chen, Boxing  and
-      Rezagholizadeh, Mehdi",
-    editor = "Graham, Yvette  and
-      Purver, Matthew",
-    booktitle = "Findings of the Association for Computational Linguistics: EACL 2024",
-    month = mar,
-    year = "2024",
-    address = "St. Julian{'}s, Malta",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.findings-eacl.141",
-    pages = "2129--2145",
-    abstract = "Large language models (LLMs) have revolutionized natural language processing (NLP) by excelling at understanding and generating human-like text. However, their widespread deployment can be prohibitively expensive. SortedNet is a recent training technique for enabling dynamic inference by leveraging the modularity in networks and sorting sub-models based on computation/accuracy in a nested manner. We extend SortedNet to generative NLP tasks, making large language models dynamic without any Pre-Training and by only replacing Standard Fine-Tuning (SFT) with Sorted Fine-Tuning (SoFT). Our approach boosts model efficiency, eliminating the need for multiple models for various scenarios during inference. We show that this approach can unlock the potential of intermediate layers of transformers in generating the target output. Our sub-models remain integral components of the original model, minimizing storage requirements and transition costs between different computational/latency budgets. The efficacy of our proposed method was demonstrated by applying it to tune LLaMA 2 13B on the Stanford Alpaca dataset for instruction following and TriviaQA for closed-book question answering. Our results show the superior performance of sub-models in comparison to Standard Fine-Tuning and SFT+ICT (Early-Exit), all achieved with very efficient tuning and without additional memory usage during inference.",
-}
-
 @misc{do2023llmsworkchartsdesigning,
       title={Do LLMs Work on Charts? Designing Few-Shot Prompts for Chart Question Answering and Summarization}, 
       author={Xuan Long Do and Mohammad Hassanpour and Ahmed Masry and Parsa Kavehzadeh and Enamul Hoque and Shafiq Joty},
