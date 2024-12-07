@@ -253,7 +253,6 @@ exclude:
   - _pages/profiles.md
   - _pages/blog.md
   - _pages/repositories.md
-  - _pages/projects.md
   - _pages/dropdown.md
   - _news/
   - _posts/
