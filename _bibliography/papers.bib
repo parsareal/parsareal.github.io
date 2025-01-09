@@ -17,7 +17,6 @@
     address = "Singapore",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2023.emnlp-main.906",
-    doi = "10.18653/v1/2023.emnlp-main.906",
     pages = "14662--14684",
     preview={unichart.png},
     selected = "true",
@@ -33,7 +32,8 @@
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2407.01955}, 
       preview={s2d.png},
-      selected={true}
+      selected={true},
+      abstract={Deployment of autoregressive large language models (LLMs) is costly, and as these models increase in size, the associated costs will become even more considerable. Consequently, different methods have been proposed to accelerate the token generation process and reduce costs. Speculative decoding (SD) is among the most promising approaches to speed up the LLM decoding process by verifying multiple tokens in parallel and using an auxiliary smaller draft model to generate the possible tokens. In SD, usually, one draft model is used to serve a specific target model; however, in practice, LLMs are diverse, and we might need to deal with many target models or more than one target model simultaneously. In this scenario, it is not clear which draft model should be used for which target model, and searching among different draft models or training customized draft models can further increase deployment costs. In this paper, we first introduce a novel multi-target scenario for the deployment of draft models for faster inference. Then, we present a novel, more efficient sorted speculative decoding mechanism that outperforms regular baselines in multi-target settings. We evaluated our method on Spec-Bench in different settings, including base models such as Vicuna 7B, 13B, and LLama Chat 70B. Our results suggest that our draft models perform better than baselines for multiple target models at the same time.}
 }
 
 @inproceedings{kavehzadeh-etal-2024-sorted,
@@ -77,7 +77,8 @@
       archivePrefix={arXiv},
       primaryClass={cs.LG},
       preview={sortednet.png},
-      url={https://arxiv.org/abs/2309.00255}, 
+      url={https://arxiv.org/abs/2309.00255},
+      abstract={Deep neural networks (DNNs) must cater to a variety of users with different performance needs and budgets, leading to the costly practice of training, storing, and maintaining numerous user/task specific models. There are solutions in the literature to deal with single dynamic or many-in-one models instead of many individual networks; however, they suffer from significant drop of performance, lack of generalization across different model architectures or different dimensions (e.g. depth, width, attention blocks), heavy model search requirements during training, and training a limited number of sub-models. To address these limitations, we propose SortedNet, a generalized and scalable training solution to harness the inherent modularity of DNNs. Thanks to a generalized nested architecture (which we refer as sorted architecture in this paper) with shared parameters and its novel update scheme combining random sub-model sampling and a new gradient accumulation mechanism, SortedNet enables the training of sub-models simultaneously along with the training of the main model (without any significant extra training or inference overhead), simplifies dynamic model selection, customizes deployment during inference, and reduces the model storage requirement significantly. The versatility and scalability of SortedNet are validated through various architectures and tasks including LLaMA, BERT, RoBERTa (NLP tasks), ResNet and MobileNet (image classification) demonstrating its superiority over existing dynamic training methods. For example, we introduce a novel adaptive self-speculative approach based on sorted-training to accelerate large language models decoding. Moreover, SortedNet is able to train up to 160 sub-models at once, achieving at least 96% of the original model’s performance.}
 }
 
 @misc{hoque2022chartquestionansweringstate,
@@ -89,6 +90,7 @@
       primaryClass={cs.CL},
       preview={cqa.png},
       url={https://arxiv.org/abs/2205.03966}, 
+      abstract={Information visualizations such as bar charts and line charts are very common for analyzing data and discovering critical insights. Often people analyze charts to answer questions that they have in mind. Answering such questions can be challenging as they often require a significant amount of perceptual and cognitive effort. Chart Question Answering (CQA) systems typically take a chart and a natural language question as input and automatically generate the answer to facilitate visual data analysis. Over the last few years, there has been a growing body of literature on the task of CQA. In this survey, we systematically review the current state-of-the-art research focusing on the problem of chart question answering. We provide a taxonomy by identifying several important dimensions of the problem domain including possible inputs and outputs of the task and discuss the advantages and limitations of proposed solutions. We then summarize various evaluation techniques used in the surveyed papers. Finally, we outline the open challenges and future research opportunities related to chart question answering.}
 }
 
 @inproceedings{10.1145/3459955.3460597,
@@ -107,5 +109,6 @@ numpages = {6},
 keywords = {Anomaly Detection, Attributed Networks, Deep Learning, Unsupervised Learning},
 location = {Edinburgh, United Kingdom},
 preview={attnet.png},
-series = {ICISS '21}
+series = {ICISS '21},
+abstract = {Anomaly detection has been one of the important issues in social network analysis in recent years due to the crucial role it plays in different applications such as fraud and spammer detection. Using both graph and node characteristics leads to more accurate results in detecting anomalous nodes of node attributed networks. Most of the research works in this field are concentrated on supervised methods for anomaly detection. However, in real-world problems, there is not enough labeled data to use supervised methods for anomaly detection. This paper proposes an unsupervised method for detecting anomalous nodes in node attributed networks. The methods used a two-step deep learning approach. In the first step, structural features of the network are extracted using node2vec; in the next step, Variational AutoEncoder (VAE) is used to detect the anomalies considering both structural and node attributes. The anomalous nodes are recognized by their higher reconstruction loss. Our experimental results on two datasets, BlogCatalog and Flickr, show that the suggested method can compete with the state-of-the-art approaches of anomaly detection in attributed networks. Our method (Deep2NAD) outperforms the state-of-the-art result on the Flickr dataset based on AUC. Moreover, it receives an acceptable AUC over the BlogCatalog dataset in comparison to the state-of-the-art methods.}
 }
